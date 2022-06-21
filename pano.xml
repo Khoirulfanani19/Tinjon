@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="5.2.5" id="node1" apprev="15998">
+  <input height="1520" overlap="1" leveltilesize="510" levelingroll="0" width="1520" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level height="1520" preload="0" width="1520" predecode="0"/>
+    <level height="760" preload="0" width="760" predecode="0"/>
+    <level height="380" preload="1" width="380" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start projection="4" fov="72.5" tilt="-13.87" pan="-165.05"/>
+    <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+    <min fov="5" tilt="-90" pan="0"/>
+    <max fovfisheye="360" fov="120" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+  </view>
+  <userdata datetime="10/05/2022 22:13" longitude="" info="" latitude="" author="" customnodeid="" copyright="" comment="" title="Situs Tinjon" source="" tags="Foto_Fix" description="Situs Tinjon merupakan situs yang terdiri dari batu-batu lepas, tampak hanya terlihat sedikit batu lepas karena kemungkinan terkubur kembali akibat belum dipugar secara terus-menerus"/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" textalpha="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" background="1" border="1" backgroundalpha="1" borderradius="1" textcolor="0x000000"/>
+    <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve"/>
+  <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="0" invertwheel="0"/>
+</panorama>
